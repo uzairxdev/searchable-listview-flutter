@@ -27,7 +27,7 @@ This Flutter application displays a list of users with functionalities to search
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/uzairxdev/searchable-listview-flutter.git
-    cd user-list-flutter-app
+    cd searchable listview flutter
     ```
 
 2. **Install dependencies**:
